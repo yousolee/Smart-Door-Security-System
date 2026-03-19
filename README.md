@@ -93,27 +93,22 @@ The Base Station firmware uses **FreeRTOS** for concurrent task management:
 
 ## Parts List
 
-| Part | Source |
+| Part |
 |---|---|
-| ESP32-C6 DevKit (×2) | Already owned from class |
-| Reed switch + magnet | Amazon |
-| 16×2 LCD Screen | Hive: Front Desk, Gray Cabinet |
-| IO Expander (PCF8574N) | Hive: Front Desk, Embedded Systems |
-| NeoPixel LED Strip (WS2812B) | Hive: Front Desk, Gray Cabinet |
-| Passive Piezo Buzzer | Hive: Front Desk, Embedded Systems |
-| Potentiometer (50kΩ) | Hive: Bench 8, Back |
-| Push Buttons (SPST) | Hive: Bench 8 |
-| Jumper Wires | Hive: Front Desk, Back Countertop |
-| Breadboard | Hive: Front Desk, Yellow Bins |
+| ESP32-C6 DevKit (×2) | 
+| Reed switch + magnet | 
+| 16×2 LCD Screen | 
+| IO Expander (PCF8574N) | 
+| NeoPixel LED Strip (WS2812B) | 
+| Passive Piezo Buzzer | 
+| Potentiometer (50kΩ) | 
+| Push Buttons (SPST) | 
+| Jumper Wires | 
+| Breadboard | 
 
 ## Technologies
 
 C/C++ · ESP-IDF / Arduino · FreeRTOS · ESP-NOW · Wi-Fi (HTTP) · I2C · PWM · GPIO Interrupts · NVS · Telegram Bot API
-
-## Contributors
-
-- **Youso Lee** — [your contribution]
-- **[Teammate]** — [their contribution]
 
 ## Course
 

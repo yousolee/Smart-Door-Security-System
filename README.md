@@ -93,18 +93,18 @@ The Base Station firmware uses **FreeRTOS** for concurrent task management:
 
 ## Parts List
 
-| Part |
-|---|---|
-| ESP32-C6 DevKit (×2) | 
-| Reed switch + magnet | 
-| 16×2 LCD Screen | 
-| IO Expander (PCF8574N) | 
-| NeoPixel LED Strip (WS2812B) | 
-| Passive Piezo Buzzer | 
-| Potentiometer (50kΩ) | 
-| Push Buttons (SPST) | 
-| Jumper Wires | 
-| Breadboard | 
+## Parts List
+
+- ESP32-C6 DevKit
+- Reed Switch + Magnet
+- 16×2 LCD Screen
+- IO Expander (PCF8574N)
+- NeoPixel LED Strip (WS2812B)
+- Passive Piezo Buzzer
+- Potentiometer (50kΩ)
+- Push Buttons (SPST)
+- Jumper Wires
+- Breadboard
 
 ## Technologies
 

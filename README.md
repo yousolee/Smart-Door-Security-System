@@ -93,8 +93,6 @@ The Base Station firmware uses **FreeRTOS** for concurrent task management:
 
 ## Parts List
 
-## Parts List
-
 - ESP32-C6 DevKit
 - Reed Switch + Magnet
 - 16×2 LCD Screen
